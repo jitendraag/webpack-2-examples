@@ -1,0 +1,16 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "Basic webpack example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js --progress --profile --bail"
+  },
+  "author": "Jeet",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.27.1",
+    "webpack": "^2.2.0"
+  }
+}
