@@ -1,0 +1,6 @@
+@import './second.css';
+
+h1 {
+    font-size: 28px;
+    background-image: url('farmer-penguin-300px.png');
+}
