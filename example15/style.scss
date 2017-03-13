@@ -1,0 +1,9 @@
+@import './second.scss';
+
+h1 {
+    font-size: 28px;
+    background-image: url('farmer-penguin-300px.png');
+    &:hover {
+        background-image: url('bookworm-penguin-300px.png');
+    }
+}
